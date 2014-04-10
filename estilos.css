@@ -1,0 +1,54 @@
+//  AQUI EL CODIGO CSS
+
+body
+{
+	background-color: #FFFFFF;
+	font-size: 12px;
+	font-family: cursive;
+	font-weight: bold;
+
+}
+
+#imagen1
+{
+  width: 70px;
+  height: 92px;
+  border: 5px solid: white;
+}
+
+.caminar
+{
+  background: url(../sprite/vieja.png) no-repeat top left;
+  
+}
+
+.dere{ background-position: 0 0; width: 66px; height: 90px; } 
+.dere1{ background-position: 0 -140px; width: 66px; height: 90px; } 
+.dere2{ background-position: 0 -280px; width: 66px; height: 90px; } 
+.dere3{ background-position: 0 -420px; width: 66px; height: 90px; } 
+.dere4{ background-position: 0 -560px; width: 66px; height: 90px; } 
+.dere5{ background-position: 0 -700px; width: 66px; height: 90px; } 
+.frente{ background-position: 0 -840px; width: 66px; height: 90px; } 
+.frente2{ background-position: 0 -980px; width: 66px; height: 90px; } 
+.frente3{ background-position: 0 -1120px; width: 66px; height: 90px; } 
+.frente4{ background-position: 0 -1260px; width: 66px; height: 90px; } 
+.frente5{ background-position: 0 -1400px; width: 66px; height: 90px; } 
+.iz1{ background-position: 0 -1540px; width: 66px; height: 90px; } 
+.iz2{ background-position: 0 -1680px; width: 66px; height: 90px; } 
+.iz3{ background-position: 0 -1820px; width: 66px; height: 90px; } 
+.iz4{ background-position: -116px 0; width: 66px; height: 90px; } 
+.iz5{ background-position: -116px -140px; width: 66px; height: 90px; } 
+.iz6{ background-position: -116px -280px; width: 66px; height: 90px; } 
+.quieto{ background-position: -116px -420px; width: 66px; height: 90px; } 
+.tras1{ background-position: -116px -560px; width: 66px; height: 90px; } 
+.tras2{ background-position: -116px -700px; width: 66px; height: 90px; } 
+.tras3{ background-position: -116px -840px; width: 66px; height: 90px; } 
+.tras4{ background-position: -116px -980px; width: 66px; height: 90px; } 
+.tras5{ background-position: -116px -1120px; width: 66px; height: 90px; } 
+.tras6{ background-position: -116px -1260px; width: 66px; height: 90px; } 
+
+{
+background-position: 0 -560px; width: 66px; height: 90px; 
+}
+
+*/
